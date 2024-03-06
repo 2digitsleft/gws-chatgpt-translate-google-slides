@@ -1,0 +1,1 @@
+# gws-chatgpt-translate-google-slides
