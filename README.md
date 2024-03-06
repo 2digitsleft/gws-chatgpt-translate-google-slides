@@ -49,7 +49,7 @@ This script is designed to automatically translate the content of Google Workspa
 
 3. **Running the Script:**
     - Use the command line to run the script with the required arguments. For example:
-    ```python script_name.py --presentation-id 'your_presentation_id' --source-language 'EN' --target-language 'DE'```
+    ```python gws-chatgpt-translate-google-slides.py --presentation-id 'your_presentation_id' --source-language 'EN' --target-language 'DE'```
     - The `--presentation-id` argument is required. It specifies the ID of the Google Slide presentation you want to translate.
     - Optional arguments allow you to specify source and target languages (default `EN` to `DE`), the OpenAI GPT model version (default `gpt-3.5-turbo`), and the log level (default `INFO`).
 
