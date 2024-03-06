@@ -1,6 +1,6 @@
 # gws-chatgpt-translate-google-slides
 
-**Important:** This script makes use of the "gcp-api-easy-access-credential-listing" script to easily select the API and credentials file for authentication to the GWS API. Download it, and put it into the same folder, follow instructions in the repository to use the script [here](https://github.com/2digitsleft/gcp-api-easy-access-credential-listing). 
+**Important:** This script makes use of the "gcp-api-easy-access-credential-listing" script to easily select the API and credentials file for authentication to the GWS API. Download it, and put it into the same folder, follow instructions in the "gcp-api-easy-access-credential-listing" repository to use the script [here](https://github.com/2digitsleft/gcp-api-easy-access-credential-listing). 
 
 ## Easily translate GWS Slide Decks: "Slides Translator with Google & chatGPT"
 Automate Google Slides translations with this Python script, leveraging OpenAI's GPT for language conversion. Supports customizable source/target languages, logging, and GCP integration for seamless updates to your presentations.
